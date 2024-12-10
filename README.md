@@ -4,16 +4,16 @@
 
 ## Overview
 
-This repository contains a Power BI project analyzing the Titanic dataset. The goal of this project is to uncover key insights about passenger demographics, survival rates, and fare patterns.
+This repository contains a Power BI project analysing the Titanic dataset. The goal of this project is to uncover key insights about passenger demographics, survival rates, and fare patterns.
 
 
 
 
 ## Objectives
 The primary objectives of this project are:
-- **Understand Survival Patterns**: Analyze how factors like gender, ticket class, and embarkation point influenced survival.
-- **Visualize Passenger Demographics**: Explore passenger distribution across gender, class, and embarkation points.
-- **Analyze Revenue**: Examine fare contributions from different embarkation locations.
+- **Understand Survival Patterns**: Analyse how factors like gender, ticket class, and embarkation point influenced survival.
+- **Visualise Passenger Demographics**: Explore passenger distribution across gender, class, and embarkation points.
+- **Analyse Revenue**: Examine fare contributions from different embarkation locations.
 
 ---
 
@@ -25,11 +25,11 @@ The primary objectives of this project are:
 
 
 ## Dashboard Highlights
-The dashboard includes the following visualizations:
+The dashboard includes the following visualisations:
 
 
 1. **Count of Passenger ID by Gender (Pie Chart)**  
-   - Visualizes the gender distribution of passengers.
+   - Visualises the gender distribution of passengers.
    - **Insight**: Most passengers were male (312 passengers).
 
 
