@@ -6,32 +6,7 @@
 
 This repository contains a Power BI project analyzing the Titanic dataset. The goal of this project is to uncover key insights about passenger demographics, survival rates, and fare patterns.
 
-### Dashboard Link :
 
-[The First Dashboard Design](https://app.powerbi.com/links/4wuCkF00IO?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
-<br>
-<br>
-![3](https://github.com/user-attachments/assets/ff238aa9-8c55-4e82-99df-29908b485099)
-<br>
-<br>
-<br>
-[The Second Dashboard Design](https://app.powerbi.com/links/kp_9nuB3gM?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=ad75682c-827f-41ec-942b-8083abf5bf5f)
-<br>
-<br>
-![10](https://github.com/user-attachments/assets/b8434513-0d4c-473a-a055-a8005036c674)
-<br>
-<br>
-<br>
-[The Third Dashboard Design](https://app.powerbi.com/links/7oFw02DWSk?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
-<br>
-<br>
-![1](https://github.com/user-attachments/assets/9bb7c802-876a-4e43-886b-31a3c92cab84)
-<br>
-<br>
-<br>
----
-<br>
-<br>
 
 
 ## Objectives
@@ -95,7 +70,34 @@ The dashboard includes the following visualizations:
 
 
 ---
+### Dashboard Link :
 
+[The First Dashboard Design](https://app.powerbi.com/links/4wuCkF00IO?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
+<br>
+<br>
+![3](https://github.com/user-attachments/assets/ff238aa9-8c55-4e82-99df-29908b485099)
+<br>
+<br>
+<br>
+[The Second Dashboard Design](https://app.powerbi.com/links/kp_9nuB3gM?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=ad75682c-827f-41ec-942b-8083abf5bf5f)
+<br>
+<br>
+![10](https://github.com/user-attachments/assets/b8434513-0d4c-473a-a055-a8005036c674)
+<br>
+<br>
+<br>
+[The Third Dashboard Design](https://app.powerbi.com/links/7oFw02DWSk?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
+<br>
+<br>
+![1](https://github.com/user-attachments/assets/9bb7c802-876a-4e43-886b-31a3c92cab84)
+<br>
+<br>
+<br>
+---
+<br>
+<br>
+
+---
 ## Key Insights
 - **Survival Trends**: Females and first-class passengers had higher survival rates.
 - **Passenger Composition**: The majority of passengers were from third class and boarded at Southampton.
