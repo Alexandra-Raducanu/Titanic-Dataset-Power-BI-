@@ -10,6 +10,9 @@ This repository contains a Power BI project analyzing the Titanic dataset. The g
 
 ---
 
+
+
+
 ![1](https://github.com/user-attachments/assets/9bb7c802-876a-4e43-886b-31a3c92cab84)
 
 
