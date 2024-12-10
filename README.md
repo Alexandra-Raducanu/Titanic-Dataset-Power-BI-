@@ -6,7 +6,13 @@
 
 This repository contains a Power BI project analyzing the Titanic dataset. The goal of this project is to uncover key insights about passenger demographics, survival rates, and fare patterns.
 
-### Dashboard Link : https://app.powerbi.com/links/cKHGODyHBe?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
+### Dashboard Link :
+
+[The First Dashboard Design](https://app.powerbi.com/links/4wuCkF00IO?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
+[The Second Dashboard Design](https://app.powerbi.com/links/kp_9nuB3gM?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare&bookmarkGuid=ad75682c-827f-41ec-942b-8083abf5bf5f)
+[The Third Dashboard Design](https://app.powerbi.com/links/7oFw02DWSk?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
+
+[Dashboard Link](https://public.tableau.com/app/profile/alexandra.raducanu/viz/shared/P6FDD95F4)
 
 ---
 <br>
