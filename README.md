@@ -85,9 +85,4 @@ The dashboard includes the following visualizations:
 
 ---
 
-## How to Use This Repository
-
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/[YourGitHubUsername]/titanic-powerbi-analysis.git
 
