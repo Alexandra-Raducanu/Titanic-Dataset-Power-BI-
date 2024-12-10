@@ -91,7 +91,7 @@ The dashboard includes the following visualizations:
    - **Insight**: Southampton accounted for 61% of the total fares collected.
 
 
-![8](https://github.com/user-attachments/assets/2af25627-07bd-4d16-96da-33e9b3348a09)
+![11](https://github.com/user-attachments/assets/f4bd279c-8dab-4521-bfe2-b1745088b553)
 
 
 ---
