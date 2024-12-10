@@ -14,7 +14,7 @@ This repository contains a Power BI project analyzing the Titanic dataset. The g
 <br>
 [The Third Dashboard Design](https://app.powerbi.com/links/7oFw02DWSk?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
 <br>
-[Dashboard Link](https://public.tableau.com/app/profile/alexandra.raducanu/viz/shared/P6FDD95F4)
+
 
 ---
 <br>
