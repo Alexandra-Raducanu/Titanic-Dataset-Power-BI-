@@ -1,10 +1,14 @@
 # Titanic-Dataset-Power-BI
 
-
 # Titanic Insights: A Visual Exploration of Survival and Demographics
+
+## Overview
+
+This repository contains a Power BI project analyzing the Titanic dataset. The goal of this project is to uncover key insights about passenger demographics, survival rates, and fare patterns.
 
 ### Dashboard Link : https://app.powerbi.com/links/cKHGODyHBe?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
 
+---
 
 ![1](https://github.com/user-attachments/assets/9bb7c802-876a-4e43-886b-31a3c92cab84)
 
