@@ -70,7 +70,7 @@ The dashboard includes the following visualizations:
 
 
 ---
-### Dashboard Link :
+### Dashboards :
 
 [The First Dashboard Design](https://app.powerbi.com/links/4wuCkF00IO?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
 <br>
