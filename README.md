@@ -3,7 +3,7 @@
 
 # Airlines-Dashboard
 
-### Dashboard Link :[ https://app.powerbi.com/groups/me/reports/4c4e0212-40c0-466f-b35c-c86e14cb2f2e/7c058b133d4878c91c34?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&experience=power-bi](https://app.powerbi.com/links/cKHGODyHBe?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare)
+### Dashboard Link : https://app.powerbi.com/links/cKHGODyHBe?ctid=6efd0f20-57c8-4447-b53f-00d4992ca50b&pbi_source=linkShare
 
 ## Problem Statement
 
