@@ -1,4 +1,4 @@
-# Titanic-Dataset-Power-BI
+# Titanic-Dataset-Power-BI-Project
 
 # Titanic Insights: A Visual Exploration of Survival and Demographics
 
