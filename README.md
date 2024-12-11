@@ -51,14 +51,16 @@ The dashboard includes the following visualisations:
    - Compares the number of passengers who survived vs. those who did not.
    - **Insight**: 549 passengers perished compared to 340 survivors.
 
-![6](https://github.com/user-attachments/assets/840f3093-2c3b-450e-bd63-1c333bdc3ca4)
+![15](https://github.com/user-attachments/assets/e1e8e841-f124-4367-a363-ccd1c9030d0c)
+
 
 
 4. **Count of Passenger ID by Embarked (Tree Map)**  
    - Displays the number of passengers who embarked from each location.
    - **Insight**: Most passengers boarded at Southampton.
 
-![7](https://github.com/user-attachments/assets/f298ae65-30bb-4bc8-b372-2d14081a3077)
+![14](https://github.com/user-attachments/assets/841aa085-2cc3-4ace-bc07-7dedbef5e339)
+
 
 
 5. **Sum of Fare by Embarked (Pie Chart)**  
