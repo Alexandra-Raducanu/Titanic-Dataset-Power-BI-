@@ -30,7 +30,7 @@ The dashboard includes the following visualisations:
 
 1. **Count of Passenger ID by Gender (Pie Chart)**  
    - Visualises the gender distribution of passengers.
-   - **Insight**: Most passengers were male (312 passengers).
+   - **Insight**: Most passengers were male (577 passengers).
 
 
 
